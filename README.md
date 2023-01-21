@@ -4,4 +4,4 @@
 - [A, B, or C](https://bananacatarchive.rahimali.net/a-b-or-c)
 - [Doors!](https://bananacatarchive.rahimali.net/doors)
 - [Smol Shoot](https://bananacatarchive.rahimali.net/smolshoot)
-- [Blob Jump](https://bananacatarchive.rahimali.net/test/Blob Jump (Alpha).exe)
+- [Blob Jump](https://bananacatarchive.rahimali.net/test/Blob%Jump%(Alpha).exe)
