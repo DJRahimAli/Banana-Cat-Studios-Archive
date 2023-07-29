@@ -1,5 +1,5 @@
 
-- [GitHub Repo](https://github.com/DJRahimAli/Banana-Cat-Studios-itch.io-Archive)
+- [GitHub Repo](https://github.com/DJRahimAli/Banana-Cat-Studios-Archive)
 
 # itch.io
 - [platformer metroidvania](https://github.com/DJRahimAli/Banana-Cat-Studios-itch.io-Archive/releases/download/platformer-metroidvania/platformmetroidvania.7z)
