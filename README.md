@@ -19,3 +19,6 @@
 # Removed Content
 ### Steam
 - [SDST: Deluxe](https://store.steampowered.com/app/1579590/SDST_Deluxe)
+
+- # Nintendo eShop
+- [a](https://www.nintendo.co.uk/Games/Nintendo-Switch-download-software/a-2058793.html)
