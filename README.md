@@ -11,7 +11,11 @@
 - [Blob Jump](https://bananacatarchive.rahimali.net/test/Blob%20Jump%20(Alpha).exe)
 
 # Game Jolt
-- [Super Duper Spooper Towers]()
+- [Super Duper Spooper Towers](https://github.com/DJRahimAli/Banana-Cat-Studios-Archive/releases/download/super-duper-spooper-towers/archive.zip)
 
-# Steam
+# Nintendo eShop
+- [SDST: Deluxe](https://store-jp.nintendo.com/list/software/70010000041902.html)
+
+# Removed Content
+### Steam
 - [SDST: Deluxe](https://store.steampowered.com/app/1579590/SDST_Deluxe)
